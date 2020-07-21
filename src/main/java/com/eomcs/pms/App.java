@@ -1,3 +1,4 @@
+// 회원 정보 출력
 package com.eomcs.pms;
 
 public class App {
